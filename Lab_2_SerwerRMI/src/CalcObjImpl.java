@@ -5,7 +5,7 @@ public class CalcObjImpl extends UnicastRemoteObject implements CalcObject {
 
     private static final long serialVersionUID = 101L;
 
-    private CalcObjImpl() throws RemoteException {
+    public CalcObjImpl() throws RemoteException {
         super();
     }
 

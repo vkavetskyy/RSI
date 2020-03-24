@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57dd1615-1474-4e3f-af1f-53844f8aee48" name="Default Changelist" comment="" />
+    <list default="true" id="08acc284-80f7-43e8-ae20-09246f52c09d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,14 +11,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1ZappT7PRYXMZlrAdRHYymCDhkl" />
+  <component name="ProjectId" id="1Zas26tkcezUEF1ZJfjwTHAJIsL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,7 +30,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Lab_2_SerwerRMI" />
+      <module name="Lab_2_KlientRMI" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -45,31 +44,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="57dd1615-1474-4e3f-af1f-53844f8aee48" name="Default Changelist" comment="" />
-      <created>1585087241490</created>
+      <changelist id="08acc284-80f7-43e8-ae20-09246f52c09d" name="Default Changelist" comment="" />
+      <created>1585088328197</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1585087241490</updated>
+      <updated>1585088328197</updated>
     </task>
     <servers />
   </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/.." />
-    </ignored-roots>
-  </component>
   <component name="WindowStateProjectService">
-    <state x="1245" y="232" key="#com.intellij.ide.util.MemberChooser" timestamp="1585087486180">
+    <state x="1032" y="178" key="#Plugins" timestamp="1585088705092">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1245" y="232" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585087486180" />
-    <state x="572" y="164" key="SettingsEditor" timestamp="1585088159698">
+    <state x="1032" y="178" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1585088705092" />
+    <state x="922" y="162" key="SettingsEditor" timestamp="1585088343302">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585088159698" />
-    <state x="685" y="143" key="new project wizard" timestamp="1585088328064">
+    <state x="922" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585088343302" />
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1585088681031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="685" y="143" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1585088328064" />
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585088681031" />
   </component>
 </project>
