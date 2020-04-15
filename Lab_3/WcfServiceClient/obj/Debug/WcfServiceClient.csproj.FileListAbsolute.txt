@@ -1,0 +1,7 @@
+D:\IdeaProjects\RSI\Lab_3\WcfServiceClient\bin\Debug\WcfServiceClient.exe.config
+D:\IdeaProjects\RSI\Lab_3\WcfServiceClient\bin\Debug\WcfServiceClient.exe
+D:\IdeaProjects\RSI\Lab_3\WcfServiceClient\bin\Debug\WcfServiceClient.pdb
+D:\IdeaProjects\RSI\Lab_3\WcfServiceClient\obj\Debug\WcfServiceClient.csproj.CoreCompileInputs.cache
+D:\IdeaProjects\RSI\Lab_3\WcfServiceClient\obj\Debug\WcfServiceClient.exe
+D:\IdeaProjects\RSI\Lab_3\WcfServiceClient\obj\Debug\WcfServiceClient.pdb
+D:\IdeaProjects\RSI\Lab_3\WcfServiceClient\obj\Debug\WcfServiceClient.csprojAssemblyReference.cache

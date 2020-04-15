@@ -1,0 +1,6 @@
+D:\IdeaProjects\RSI\Lab_3\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll.config
+D:\IdeaProjects\RSI\Lab_3\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+D:\IdeaProjects\RSI\Lab_3\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+D:\IdeaProjects\RSI\Lab_3\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CoreCompileInputs.cache
+D:\IdeaProjects\RSI\Lab_3\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+D:\IdeaProjects\RSI\Lab_3\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb

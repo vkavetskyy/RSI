@@ -1,4 +1,4 @@
-public class Main {
+public class MyClient {
 
     public static void main(String[] args) {
 	    double wynik = 0;
@@ -7,10 +7,11 @@ public class Main {
 	    if (args.length == 0)
 	        System.out.println("You have to enter RMI object address in the form: //host_address/service_name");
 
+        System.out.println(args[0]);
 	    String adres = args[0];
 
-/*        if (System.getSecurityManager() == null)
-            System.setSecurityManager(new SecurityManager());*/
+        if (System.getSecurityManager() == null)
+            System.setSecurityManager(new SecurityManager());
 
         try {
             zObiekt = (CalcObject) java.rmi.Naming.lookup(adres);
