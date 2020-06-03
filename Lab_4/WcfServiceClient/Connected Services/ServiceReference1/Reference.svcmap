@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d5c6a5ef-76f7-4e7d-a513-19c0f973a2b7" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:34506/Lab4" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Lab4.xsd" MetadataType="Schema" ID="b6f4d58a-f0ee-4b83-b50e-35713511327f" SourceId="1" SourceUrl="http://localhost:34506/Lab4?xsd=xsd1" />
+    <MetadataFile FileName="KalkulatorLZ.wsdl" MetadataType="Wsdl" ID="bb391c4c-1ddf-4903-8714-358cf10382e2" SourceId="1" SourceUrl="http://localhost:34506/Lab4?wsdl" />
+    <MetadataFile FileName="Lab41.xsd" MetadataType="Schema" ID="451b89f4-f312-4493-9dea-286e0b0104a2" SourceId="1" SourceUrl="http://localhost:34506/Lab4?xsd=xsd0" />
+    <MetadataFile FileName="Lab42.xsd" MetadataType="Schema" ID="ea88a766-ed3c-4181-ac18-41ac73974cf3" SourceId="1" SourceUrl="http://localhost:34506/Lab4?xsd=xsd2" />
+    <MetadataFile FileName="Lab4.disco" MetadataType="Disco" ID="04102715-0c8e-49f5-b364-efbfd8d9417c" SourceId="1" SourceUrl="http://localhost:34506/Lab4?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

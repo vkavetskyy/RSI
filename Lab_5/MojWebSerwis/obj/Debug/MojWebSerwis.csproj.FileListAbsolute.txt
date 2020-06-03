@@ -1,0 +1,7 @@
+D:\IdeaProjects\Lab_5\MojWebSerwis\obj\Debug\MojWebSerwis.csprojAssemblyReference.cache
+D:\IdeaProjects\Lab_5\MojWebSerwis\obj\Debug\MojWebSerwis.csproj.CoreCompileInputs.cache
+D:\IdeaProjects\Lab_5\MojWebSerwis\bin\MojWebSerwis.dll.config
+D:\IdeaProjects\Lab_5\MojWebSerwis\bin\MojWebSerwis.dll
+D:\IdeaProjects\Lab_5\MojWebSerwis\bin\MojWebSerwis.pdb
+D:\IdeaProjects\Lab_5\MojWebSerwis\obj\Debug\MojWebSerwis.dll
+D:\IdeaProjects\Lab_5\MojWebSerwis\obj\Debug\MojWebSerwis.pdb
