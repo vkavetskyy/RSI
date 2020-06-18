@@ -40,7 +40,7 @@ namespace WcfServiceLibrary
     }
 
     [ServiceBehavior (ConcurrencyMode = ConcurrencyMode.Multiple)]
-    public class MojSerwis2 : IOWSerwis
+    public class OWSerwis : IOWSerwis
     {
         public void Funkcja1(String s1)
         {

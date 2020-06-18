@@ -1,0 +1,7 @@
+D:\IdeaProjects\RSI\Lab_41\CallbackService\bin\Debug\CallbackService.dll.config
+D:\IdeaProjects\RSI\Lab_41\CallbackService\bin\Debug\CallbackService.dll
+D:\IdeaProjects\RSI\Lab_41\CallbackService\bin\Debug\CallbackService.pdb
+D:\IdeaProjects\RSI\Lab_41\CallbackService\obj\Debug\CallbackService.csprojAssemblyReference.cache
+D:\IdeaProjects\RSI\Lab_41\CallbackService\obj\Debug\CallbackService.csproj.CoreCompileInputs.cache
+D:\IdeaProjects\RSI\Lab_41\CallbackService\obj\Debug\CallbackService.dll
+D:\IdeaProjects\RSI\Lab_41\CallbackService\obj\Debug\CallbackService.pdb

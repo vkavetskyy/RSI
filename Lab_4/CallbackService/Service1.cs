@@ -56,8 +56,9 @@ namespace CallbackService
             Console.WriteLine("...wywołano Silnia({0})", n);
             Thread.Sleep(1000);
             result = 1;
-            for (int i = 0; i <= n; i++)
+            for (int i = 1; i <= n; i++)
                 result *= i;
+            Console.WriteLine(result);
             callback.ZwrotSilnia(result);
         }
     }

@@ -2,7 +2,7 @@ import java.io.Serializable;
 
 public class InputType implements Serializable {
     private static final long serialVersionUID = 101L;
-    String operation;
+    String operation = null;
     public double x1;
     public double x2;
 

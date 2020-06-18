@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CallbackService;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.ServiceModel;
@@ -20,7 +21,11 @@ namespace WcfServiceHost
             ServiceHost mojHost = new ServiceHost(typeof(KalkulatorLZ), baseAddress);
 
             Uri baseAddress2 = new Uri("http://localhost:34506/Lab4_2");
-            ServiceHost mojHost2 = new ServiceHost(typeof(MojSerwis2), baseAddress2);
+            ServiceHost mojHost2 = new ServiceHost(typeof(OWSerwis), baseAddress2);
+
+            Uri baseAddress3 = new Uri("http://localhost:34506/Lab4_3");
+            ServiceHost mojHost3 = new ServiceHost(typeof(mojCallbackKalkulator), baseAddress3);
+            WSDualHttpBinding mojBanding3 = new WSDualHttpBinding();
 
             try
             {
@@ -30,20 +35,29 @@ namespace WcfServiceHost
 
                 mojHost2.AddServiceEndpoint(typeof(IOWSerwis), mojBinding, "IOWSerwis");
 
+                ServiceEndpoint endpoint3 = mojHost3.AddServiceEndpoint(typeof(ICallBackKalkulator), mojBanding3, "CallbackKalkulator");
+
                 //Krok 4: Ustaw wymiane metadanych.
                 ServiceMetadataBehavior smb = new ServiceMetadataBehavior();
                 smb.HttpGetEnabled = true;
                 mojHost.Description.Behaviors.Add(smb);
                 mojHost2.Description.Behaviors.Add(smb);
 
+                ServiceMetadataBehavior smb3 = new ServiceMetadataBehavior();
+                smb3.HttpGetEnabled = true;
+                mojHost3.Description.Behaviors.Add(smb3);
+
                 //Krok 5: Uruchom serwis.
                 mojHost.Open();
                 mojHost2.Open();
+                mojHost3.Open();
                 Console.WriteLine("--->Host uruchomiony.");
+                Console.WriteLine("--->CallbackKalkulator uruchomiony.");
                 Console.WriteLine("--->Naciśnij <ENTER> aby zakończyć.\n");
                 Console.ReadLine(); //Czekam na zamknięcie
                 mojHost.Close();
                 mojHost2.Close();
+                mojHost3.Close();
                 Console.WriteLine("--->Host zakończył działanie.");
             }
             catch (CommunicationException e)

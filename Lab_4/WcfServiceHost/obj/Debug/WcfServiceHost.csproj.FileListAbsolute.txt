@@ -20,3 +20,17 @@ D:\IdeaProjects\RSI\Lab_4\WcfServiceHost\obj\Debug\WcfServiceHost.csproj.CoreCom
 D:\IdeaProjects\RSI\Lab_4\WcfServiceHost\obj\Debug\WcfServiceHost.csproj.CopyComplete
 D:\IdeaProjects\RSI\Lab_4\WcfServiceHost\obj\Debug\WcfServiceHost.exe
 D:\IdeaProjects\RSI\Lab_4\WcfServiceHost\obj\Debug\WcfServiceHost.pdb
+D:\IdeaProjects\RSI\Lab_41\WcfServiceHost\bin\Debug\WcfServiceHost.exe.config
+D:\IdeaProjects\RSI\Lab_41\WcfServiceHost\bin\Debug\WcfServiceHost.exe
+D:\IdeaProjects\RSI\Lab_41\WcfServiceHost\bin\Debug\WcfServiceHost.pdb
+D:\IdeaProjects\RSI\Lab_41\WcfServiceHost\bin\Debug\WcfServiceLibrary.dll
+D:\IdeaProjects\RSI\Lab_41\WcfServiceHost\bin\Debug\WcfServiceLibrary.pdb
+D:\IdeaProjects\RSI\Lab_41\WcfServiceHost\bin\Debug\WcfServiceLibrary.dll.config
+D:\IdeaProjects\RSI\Lab_41\WcfServiceHost\obj\Debug\WcfServiceHost.csprojAssemblyReference.cache
+D:\IdeaProjects\RSI\Lab_41\WcfServiceHost\obj\Debug\WcfServiceHost.csproj.CoreCompileInputs.cache
+D:\IdeaProjects\RSI\Lab_41\WcfServiceHost\obj\Debug\WcfServiceHost.csproj.CopyComplete
+D:\IdeaProjects\RSI\Lab_41\WcfServiceHost\obj\Debug\WcfServiceHost.exe
+D:\IdeaProjects\RSI\Lab_41\WcfServiceHost\obj\Debug\WcfServiceHost.pdb
+D:\IdeaProjects\RSI\Lab_41\WcfServiceHost\bin\Debug\CallbackService.dll
+D:\IdeaProjects\RSI\Lab_41\WcfServiceHost\bin\Debug\CallbackService.pdb
+D:\IdeaProjects\RSI\Lab_41\WcfServiceHost\bin\Debug\CallbackService.dll.config
